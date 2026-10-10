@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="MohammadHasan Gohartor — Java Developer">
+  <defs>
+    <linearGradient id="og-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#141414" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og-bg)" />
+
+  <g transform="translate(80,72)">
+    <rect width="76" height="76" rx="16" fill="#fafafa" />
+    <path d="M15 19 L61 19 L38 58 Z" fill="#0a0a0a" />
+  </g>
+
+  <text
+    x="80"
+    y="330"
+    font-family="Helvetica, Arial, sans-serif"
+    font-size="70"
+    font-weight="700"
+    fill="#fafafa"
+  >MohammadHasan Gohartor</text>
+
+  <text
+    x="80"
+    y="392"
+    font-family="Helvetica, Arial, sans-serif"
+    font-size="34"
+    font-weight="500"
+    fill="#a3a3a3"
+  >Java Developer | Spring Boot | Microservices</text>
+
+  <line x1="80" y1="470" x2="1120" y2="470" stroke="#262626" stroke-width="2" />
+
+  <text
+    x="80"
+    y="540"
+    font-family="Menlo, monospace"
+    font-size="28"
+    fill="#6b7280"
+  >gohartor.ir</text>
+</svg>

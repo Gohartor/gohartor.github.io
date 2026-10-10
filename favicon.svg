@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gohartor">
+  <defs>
+    <filter id="logo-shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow
+        dx="0"
+        dy="1"
+        stdDeviation="1.1"
+        flood-color="#000000"
+        flood-opacity="0.35"
+      />
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0a0a0a" />
+  <path
+    d="M12 14.7 L52 14.7 L32 49.3 Z"
+    fill="#fafafa"
+    filter="url(#logo-shadow)"
+  />
+</svg>
