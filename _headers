@@ -1,8 +1,0 @@
-/*
-  Alt-Svc: clear
-
-/_astro/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/fonts/*
-  Cache-Control: public, max-age=31536000, immutable
